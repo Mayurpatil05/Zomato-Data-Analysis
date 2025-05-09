@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/f8046a4a-7486-4f98-b7c1-580b23a3f6ac)
+
 # 🍽️ Exploratory Data Analysis on Zomato Dataset
 
 This project presents a detailed exploratory data analysis (EDA) on the Zomato dataset, aimed at understanding restaurant trends, ratings, location insights, and service types across India. The analysis is performed using Python and popular data science libraries.
@@ -18,7 +20,6 @@ This project presents a detailed exploratory data analysis (EDA) on the Zomato d
 - NumPy
 - Matplotlib
 - Seaborn
-- Plotly (if applicable)
 
 ## 📊 Key Insights
 
@@ -31,13 +32,8 @@ This project presents a detailed exploratory data analysis (EDA) on the Zomato d
 ## 📁 Files Included
 
 - `EDA on Zomato.ipynb` – Main analysis notebook with step-by-step visualizations.
-- (Optional) `zomato.csv` – Dataset file (if you plan to include it).
-- (Optional) `images/` – Folder for exporting visualizations if saved.
+- `zomato_restaurants_in_India.csv` – Dataset file (if you plan to include it).
 
-## 📍 Dataset Source
-
-- The Zomato dataset is publicly available via Kaggle:  
-  [Zomato Restaurants Dataset on Kaggle](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
 
 ## 📈 Sample Visuals
 
@@ -46,12 +42,3 @@ This project presents a detailed exploratory data analysis (EDA) on the Zomato d
 > - Restaurant Count by Location
 > - Top Cuisines
 > - Price Range Heatmap
-
-## 🔧 Setup Instructions
-
-To run this notebook locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/zomato-eda.git
-   cd zomato-eda
