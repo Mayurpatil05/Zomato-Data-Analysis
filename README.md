@@ -32,7 +32,7 @@ This project presents a detailed exploratory data analysis (EDA) on the Zomato d
 ## 📁 Files Included
 
 - `EDA on Zomato.ipynb` – Main analysis notebook with step-by-step visualizations.
-- `zomato_restaurants_in_India.csv` – Dataset file (if you plan to include it).
+- `zomato_restaurants_in_India.csv` – Dataset file.
 
 
 ## 📈 Sample Visuals
