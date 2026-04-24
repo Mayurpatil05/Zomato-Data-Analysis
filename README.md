@@ -33,12 +33,3 @@ This project presents a detailed exploratory data analysis (EDA) on the Zomato d
 
 - `EDA on Zomato.ipynb` – Main analysis notebook with step-by-step visualizations.
 - `zomato_restaurants_in_India.csv` – Dataset file.
-
-
-## 📈 Sample Visuals
-
-> Include screenshots or saved plots (optional):
-> - Distribution of Ratings
-> - Restaurant Count by Location
-> - Top Cuisines
-> - Price Range Heatmap
